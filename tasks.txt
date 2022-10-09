@@ -43,6 +43,57 @@ TASK:
 Pack for your holiday.
 All items must either be packed in your hand luggage or worn on your body.
 Fastest wins.
+---2_2_1
+SETUP:
+Get a raw egg and an egg cup.
+Write the task on the egg and the eggcup.
+TASK:
+Eat me.
+Fastest wins.
+---2_2_2
+SETUP:
+Place the task on a baby mobile hanging from the ceiling.
+TASK:
+Make the best music video for a nursery rhyme.
+You have one hour.
+Your time starts now.
+---2_2_3
+SETUP:
+Get a picture frame and a camera.
+Place the task in the picture frame.
+Glue the camera on the frame.
+TASK:
+Using this camera, take a picture of an inanimate object that looks like you.
+Closest resemblance wins.
+You have twenty weeks.
+Your time starts now.
+---2_2_4
+SETUP:
+Get a phone and a pizza box.
+Place the phone and pizza box on a table.
+Place the task inside the pizza box.
+TASK:
+Order the following pizza for the Taskmaster:
+Extra large vegetarian pizza with pepperoni and bacon, and without tomato and cheese.
+You may not use the following words:
+EXTRA
+LARGE
+VEGETARIAN
+PIZZA
+PEPPERONI
+BACON
+TOMATO
+CHEESE
+You get a bonus point if you can make the pizza person say the word "bubbles".
+---2_2_5
+SETUP:
+Get 10 potatoes, 2 billiard cue sticks, two rubber balls, and a basket.
+Put the rubber balls on the end of the cue sticks.
+Place the task next to the potatoes, the cue sticks, and the basket.
+TASK:
+Using these big chopsticks, get these potatoes into your basket.
+You must only hold the big chopsticks on the grips provided.
+The big chopsticks alone may touch the potatoes in turn. Whoever has the most potatoes in the basket after 100 seconds wins.
 ---8_7_1
 SETUP:
 Get 5 pink lady apples, 3 satsumas, a green egg, and 9 bowls.
